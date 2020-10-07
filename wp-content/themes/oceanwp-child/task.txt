@@ -1,0 +1,42 @@
+Date:2/10/2020
+TaskList:
+1. Show seller name which seller has added the product
+
+--Pending
+
+2. Add Custom Field in Customer Order Checkout Page
+  - Field name : Delivery Notes
+  - Field Type : Text
+  - When Place order it will shows in Order Page in customer side
+
+---Partial Completed
+
+
+3.Add Custom Field in add Delivery days and Delivery type in product edit page and shows in product details page before cart button
+   - Field 1 : 
+	Field Name : Delivery Day Type
+	Field Type : Dropdown
+        Field Values : Days, Week
+   - Feild 2 : 
+   	Field name : Delivery Days
+        Field Type : number
+   - On Product details it shoudl shows like "Estimated Delivery in X days / Weeks"    
+
+
+--Pending
+
+
+4. Add CUstom Text After Price Price Excluding GST ( it should apply on all places in Site where  product price shows )
+
+--Pending
+
+5. Add Custom Tab in Produt Details page for Product Enquiry 
+   - if user has logged in then enquire form should shows else it will shows please logged in for enquiry'
+   - Field : 
+	- Field Name : Enquiry Message
+        - Field Type : TextArea
+   - When Enquiry Submiited at time email will send  and following details shows send in email : 
+       - Product Details with product link
+       - Customer  Details with Name ,Email and Phone
+
+--Pending
